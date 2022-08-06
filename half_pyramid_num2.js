@@ -11,6 +11,7 @@ const halfPyramidNum2 = (number) => {
 
 console.log(halfPyramidNum2(5))
 
+
 //              1
 //              22
 //              333
